@@ -42,12 +42,14 @@ ng serve
 ##  Capturas
 Pagina principales
 
-![Imagen](/[assets/imagen.png](https://github.com/KeiXXX19/cliente/blob/c6edfe31306cebfda845acc71ddbf2e55ed93d27/Captura%20de%20pantalla%202025-06-04%20231139.png))
+![Imagen](/[assets/imagen.png](https://github.com/KeiXXX19/cliente/blob/c6edfe31306cebfda845acc71ddbf2e55ed93d27/Captura%20de%20pantalla%202025-06-04%20231139.png)
 
 
 
 ---
  por [KeiXXX19](https://github.com/KeiXXX19) 
+
+ ```
  ALIAS CLAN-GOJ0
  
 ```
