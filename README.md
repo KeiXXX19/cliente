@@ -23,6 +23,7 @@ markdown
 - Estilos: CSS puro + Flexbox/Grid
 - Control de versiones: Git/GitHub
 ```
+```
 Instalación
 1. Clona el repositorio:
 ```bash
