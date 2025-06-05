@@ -44,14 +44,10 @@ Pagina principales
 
 
 
-
-
-
-## 📄 Licencia
-Este proyecto está bajo la licencia MIT - ver [LICENSE.md](LICENSE.md) para detalles.
-
 ---
  por [KeiXXX19](https://github.com/KeiXXX19) 
+ ALIAS CLAN-GOJ0
+ 
 ```
 
 
