@@ -7,9 +7,9 @@ Proyecto Angular de gestión de productos:
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue?logo=typescript)
 ![License](https://img.shields.io/badge/Licencia-MIT-green)
 
-Aplicación web para gestión de inventario de productos con interfaz intuitiva y funcionalidades CRUD completas.
+## Aplicación web para gestión de inventario de productos con interfaz intuitiva.
 
-Características principales
+## Características principales
 -  Listado de productos con filtros
 -  Creación/edición de productos
 -  Eliminación con confirmación
