@@ -1,12 +1,12 @@
 Proyecto Angular de gestión de productos:
 
-```markdown
+markdown
 #  Sistema de Gestión de Productos (Angular)
-
+```
 ![Angular](https://img.shields.io/badge/Angular-20.0.0-red?logo=angular)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue?logo=typescript)
 ![License](https://img.shields.io/badge/Licencia-MIT-green)
-
+```
 ## Aplicación web para gestión de inventario de productos con interfaz intuitiva.
 
 ## Características principales
