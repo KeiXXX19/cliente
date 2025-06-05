@@ -22,7 +22,7 @@ Características principales
 - Frontend: Angular 20 + TypeScript
 - Estilos: CSS puro + Flexbox/Grid
 - Control de versiones: Git/GitHub
-
+```
 Instalación
 1. Clona el repositorio:
 ```bash
