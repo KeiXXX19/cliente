@@ -1,0 +1,31 @@
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-lg-6 offset-lg-3">
+      <div class="card">
+        <div class="card-body text-center">
+          <span class="titulo">Crear Producto</span>
+          <form (ngSubmit)="onSubmit()" >
+            <div class="mb-3">
+              <label for="nombre" class="form-label">Nombre</label>
+              <input type="text" class="form-control" id="nombre" name="nombre" required (ngModel)="producto.nombre" />
+            </div>
+            <div class="mb-3">
+              <label for="categoria" class="form-label">Categoría</label>
+              <input type="text" class="form-control" id="categoria" name="categoria" required (ngModel)="producto.categoria" />
+            </div>
+            <div class="mb-3">
+              <label for="ubicacion" class="form-label">Ubicación</label>
+              <input type="text" class="form-control" id="ubicacion" name="ubicacion" required (ngModel)="producto.ubicacion" />
+            </div>
+            <div class="mb-3">
+              <label for="precio" class="form-label">Precio</label>
+              <input type="number" class="form-control" id="precio" name="precio" required min="0" (ngModel)="producto.precio" />
+            </div>
+            <button type="button" class="btn btn-secondary float-start" routerLink="['/']">Volver</button>
+            <button type="submit" class="btn btn-primary float-end">Crear</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
